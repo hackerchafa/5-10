@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\bin\Debug\net9.0\registroVentas.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\bin\Debug\net9.0\registroVentas.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\bin\Debug\net9.0\registroVentas.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\bin\Debug\net9.0\registroVentas.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\bin\Debug\net9.0\registroVentas.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\refint\registroVentas.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\registroVentas.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\registroVentas\obj\Debug\net9.0\ref\registroVentas.dll
