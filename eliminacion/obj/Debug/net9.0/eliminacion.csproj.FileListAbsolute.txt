@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\bin\Debug\net9.0\eliminacion.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\bin\Debug\net9.0\eliminacion.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\bin\Debug\net9.0\eliminacion.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\bin\Debug\net9.0\eliminacion.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\bin\Debug\net9.0\eliminacion.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\refint\eliminacion.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\eliminacion.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\eliminacion\obj\Debug\net9.0\ref\eliminacion.dll
