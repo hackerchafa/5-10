@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\bin\Debug\net9.0\matrizMultiplicado.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\bin\Debug\net9.0\matrizMultiplicado.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\bin\Debug\net9.0\matrizMultiplicado.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\bin\Debug\net9.0\matrizMultiplicado.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\bin\Debug\net9.0\matrizMultiplicado.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\refint\matrizMultiplicado.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\matrizMultiplicado.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\matrizMultiplicado\obj\Debug\net9.0\ref\matrizMultiplicado.dll
