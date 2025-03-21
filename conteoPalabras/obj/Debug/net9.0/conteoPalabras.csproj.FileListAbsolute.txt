@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\bin\Debug\net9.0\conteoPalabras.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\bin\Debug\net9.0\conteoPalabras.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\bin\Debug\net9.0\conteoPalabras.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\bin\Debug\net9.0\conteoPalabras.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\bin\Debug\net9.0\conteoPalabras.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\refint\conteoPalabras.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\conteoPalabras.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\conteoPalabras\obj\Debug\net9.0\ref\conteoPalabras.dll
