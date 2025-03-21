@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\bin\Debug\net9.0\guardadoLectura.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\bin\Debug\net9.0\guardadoLectura.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\bin\Debug\net9.0\guardadoLectura.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\bin\Debug\net9.0\guardadoLectura.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\bin\Debug\net9.0\guardadoLectura.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\refint\guardadoLectura.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\guardadoLectura.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\guardadoLectura\obj\Debug\net9.0\ref\guardadoLectura.dll
