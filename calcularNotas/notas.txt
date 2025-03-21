@@ -1,0 +1,4 @@
+Andy,7,6,8
+Pablo,9,10,9
+Issac,5,5,10
+Daniel,2,8,4

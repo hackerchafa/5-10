@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\bin\Debug\net9.0\calcularNotas.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\bin\Debug\net9.0\calcularNotas.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\bin\Debug\net9.0\calcularNotas.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\bin\Debug\net9.0\calcularNotas.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\bin\Debug\net9.0\calcularNotas.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\refint\calcularNotas.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\calcularNotas.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\calcularNotas\obj\Debug\net9.0\ref\calcularNotas.dll
